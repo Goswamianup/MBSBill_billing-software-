@@ -5,7 +5,7 @@ Built in PHP and MySQL for XAMPP, MBSBill is a basic GST billing and invoice man
 
 A complete, professional GST-compliant billing system built with PHP and MySQL. Features user authentication with admin/user roles, purchase entry, sales invoice generation, inventory management, and comprehensive GST calculations (CGST/SGST/IGST).
 
-##  **IMPORTANT** Note to link with tally and calender mail me mail id given below in support  
+# **IMPORTANT** Note to link with tally and calender mail me at my mail id given below in support  
 ## ✨ Features
 
 ### Authentication & Security
