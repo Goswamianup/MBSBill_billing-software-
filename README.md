@@ -418,8 +418,11 @@ For issues or questions:
 - `style.css` - Updated with new styles for auth UI
 
 ## 📄 License
-
 This project is open-source and free to use for commercial and personal purposes.
+
+# Screenshot 
+<img width="1793" height="909" alt="image" src="https://github.com/user-attachments/assets/3e70a1ab-5edd-49af-9a0f-231ca01e688c" />
+
 
 ## 🎉 Credits
 
