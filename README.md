@@ -1,4 +1,4 @@
-# MBSBill_billing-software-
+# MBSBill-billing-software-
 
 Built in open-source PHP and MySQL for XAMPP, MBSBill is a basic GST billing and invoice management system. With a secure login, it facilitates sales, purchase, stock, customer, and GST reports. Perfect for small companies.
 
